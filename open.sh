@@ -6,8 +6,8 @@
 ##########################################################################
                      API="Profile_Provider_ID" 
                      google_sheet="https://docs.google.com/spreadsheets/d/107lqOTVWlO_IG2uDH9clGWxuPGMdkgsR6houlZrnGO0/edit?gid=303761516#gid=303761516" 
-                     id="7"                 #เปลี่ยน id ทุกครั้งที่ยิง
-                     user="7000";              #จำนวนผู้ใช้งาน
+                     id="13"                 #เปลี่ยน id ทุกครั้งที่ยิง
+                     user="10000";              #จำนวนผู้ใช้งาน
                      duration="60";          #วินาที
                      scenario="3"           #scenario="1" ยิงเเบบกำหนด request (duration ได้แค่ 1 วินาที)
                      cid="1"                #scenario="2" ยิงเเบบกำหนด VUs  (กำหนดว่า user x คน ใช้ระบบ x วินาที)

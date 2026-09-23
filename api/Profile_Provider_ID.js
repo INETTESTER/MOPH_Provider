@@ -13,6 +13,9 @@ export function Profile_Provider_ID() {
     };
 
     const response = http.get(url, params);
+    if (response.status !== 200) {
+        console.log(response.body);
+    }
 
     //console.log(response.body);
 

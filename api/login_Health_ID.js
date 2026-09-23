@@ -19,6 +19,9 @@ export function login_Health_ID() {
     };
 
     const response = http.post(url, payload, params);
+    if (response.status !== 200) {
+        console.log(response.body);
+    }
 
     //console.log(response.body);
 

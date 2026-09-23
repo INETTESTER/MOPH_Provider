@@ -13,7 +13,7 @@ export default function () {    //เรียกใช้ API ใน export def
   //response = login_Health_ID()
   //response = Profile_Health_ID()
   //response = Exchange_token_Health()
-  //response = Profile_Provider_ID()
+  response = Profile_Provider_ID()
 
 
   error_check(response);

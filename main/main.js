@@ -10,8 +10,8 @@ import { Profile_Provider_ID } from '../api/Profile_Provider_ID.js';
 //============================================================================
 
 export default function () {    //เรียกใช้ API ใน export default function
-  response = login_Health_ID()
-  //response = Profile_Health_ID()
+  //response = login_Health_ID()
+  response = Profile_Health_ID()
   //response = Exchange_token_Health()
   //response = Profile_Provider_ID()
 

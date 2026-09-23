@@ -4,9 +4,9 @@
 ##########################################################################
 ##########################################################################
 ##########################################################################
-                     API="Profile_Provider_ID" 
+                     API="Exchange_token_Health" 
                      google_sheet="https://docs.google.com/spreadsheets/d/107lqOTVWlO_IG2uDH9clGWxuPGMdkgsR6houlZrnGO0/edit?gid=303761516#gid=303761516" 
-                     id="13"                 #เปลี่ยน id ทุกครั้งที่ยิง
+                     id="15"                 #เปลี่ยน id ทุกครั้งที่ยิง
                      user="10000";              #จำนวนผู้ใช้งาน
                      duration="60";          #วินาที
                      scenario="3"           #scenario="1" ยิงเเบบกำหนด request (duration ได้แค่ 1 วินาที)
